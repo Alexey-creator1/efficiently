@@ -1,0 +1,17 @@
+#first {
+    /*background-color: #407880;*/
+    /*color: #a60f0a;*/
+    /*background-image: url("https://wallpaperset.com/w/full/b/e/1/145099.jpg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-position: center;*/
+
+    color: #a60f0a;
+    background: #407880 url('https://wallpaperset.com/w/full/b/e/1/145099.jpg') no-repeat center top;
+    height: 500px;
+    background-size: cover ;
+    background-attachment: fixed;
+}
+
+#second {
+    height: 2000px;
+}
